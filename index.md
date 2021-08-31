@@ -6,8 +6,4 @@ subtitle: MSc Computer Science with Artificial Intelligence Graduate
 
 ### Projects
 
-<img src=visual alt="drawing" width="200"/>
-
-
-
-[visual](/assets/img/visual.png)
+<img src="/assets/img/visual.png" alt="visual" width="200"/>
