@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Simon Buchacher
+title: Shimi Buchacher
 subtitle: MSc Artificial Intelligence Graduate
 ---
 
