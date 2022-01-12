@@ -4,7 +4,7 @@ title: Simon Buchacher
 subtitle: MSc Artificial Intelligence Graduate
 ---
 
-Hi 👋, I'm interested in leveraging technology to elevate the human condition. 🫀 I've developed deep health sector domain expertise and through this repeatedly seen the tremendous potential that data analytics can unlock. 🚀 This inspired me to teach myself to code and subsequently to pursue a MSc in Artificial Intelligence at the University of St Andrews. 👨‍🏫
+I'm interested in leveraging technology to elevate the human condition. I've developed deep health sector domain expertise and through this repeatedly seen the tremendous potential that data analytics can unlock. This inspired me to teach myself to code and subsequently to pursue a MSc in Artificial Intelligence at the University of St Andrews.
 
 ### Select Projects
 
