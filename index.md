@@ -4,7 +4,7 @@ title: Simon Buchacher
 subtitle: Software Developer
 ---
 
-I'm interested in leveraging technology to elevate the human condition. I've developed deep health sector domain expertise and through this repeatedly seen the tremendous potential that data analytics can unlock. This inspired me to teach myself to code and subsequently to pursue an education as well as a career in AI.
+I'm interested in leveraging technology to elevate the human condition. I've developed deep health sector domain expertise and through this repeatedly seen the tremendous potential that data analytics can unlock. This inspired me to teach myself to code and subsequently to pursue an education as well as a career in AI. 
 
 ### Select Projects
 
